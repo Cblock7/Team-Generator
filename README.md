@@ -16,7 +16,13 @@ In order to install required dependencies, run the following command:
 > npm i 
 
 ## Usage 
-Simply run the main.js file in your terminal, answer the questions provided, and enjoy your generated team website! 
+Simply run the main.js file in your terminal, answer the questions provided, and enjoy your generated team website!
+![](./images/team-generator-ss.JPG)
+
+Demo Video:
+https://drive.google.com/file/d/14qG7tXNwCrRJN5zkRH4uKI4oI0cJu-XZ/view
+
+<iframe src="https://drive.google.com/file/d/14qG7tXNwCrRJN5zkRH4uKI4oI0cJu-XZ/preview" width="640" height="480"></iframe>
 
 ## License 
 None 
