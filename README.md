@@ -22,8 +22,6 @@ Simply run the main.js file in your terminal, answer the questions provided, and
 Demo Video:
 https://drive.google.com/file/d/14qG7tXNwCrRJN5zkRH4uKI4oI0cJu-XZ/view
 
-<iframe src="https://drive.google.com/file/d/14qG7tXNwCrRJN5zkRH4uKI4oI0cJu-XZ/preview" width="640" height="480"></iframe>
-
 ## License 
 None 
 
